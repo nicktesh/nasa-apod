@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nasa-apod/static/css/main.fe0d75bb.chunk.css",
+    "main.js": "/nasa-apod/static/js/main.35bd3d94.chunk.js",
+    "main.js.map": "/nasa-apod/static/js/main.35bd3d94.chunk.js.map",
+    "runtime-main.js": "/nasa-apod/static/js/runtime-main.aac13ee4.js",
+    "runtime-main.js.map": "/nasa-apod/static/js/runtime-main.aac13ee4.js.map",
+    "static/js/2.aa3603fb.chunk.js": "/nasa-apod/static/js/2.aa3603fb.chunk.js",
+    "static/js/2.aa3603fb.chunk.js.map": "/nasa-apod/static/js/2.aa3603fb.chunk.js.map",
+    "static/js/3.d9362f37.chunk.js": "/nasa-apod/static/js/3.d9362f37.chunk.js",
+    "static/js/3.d9362f37.chunk.js.map": "/nasa-apod/static/js/3.d9362f37.chunk.js.map",
+    "index.html": "/nasa-apod/index.html",
+    "static/css/main.fe0d75bb.chunk.css.map": "/nasa-apod/static/css/main.fe0d75bb.chunk.css.map",
+    "static/js/2.aa3603fb.chunk.js.LICENSE.txt": "/nasa-apod/static/js/2.aa3603fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aac13ee4.js",
+    "static/js/2.aa3603fb.chunk.js",
+    "static/css/main.fe0d75bb.chunk.css",
+    "static/js/main.35bd3d94.chunk.js"
+  ]
+}
