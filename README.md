@@ -1,4 +1,4 @@
-# NASA APID Project
+# NASA APOD Project
 This is a tutorial project I followed along with to create a page that displays a new astronomy photo each day by connecting to the NASA APOD API.
 
 # Tech
